@@ -26,7 +26,7 @@ Auto load entities from database with `EntityManager`, by simply annotating fiel
 At your `@SpringBootApplication`, add the following:
 
 ```java
-@ComponentScan(basePackages = {"com.mypackage", "com.romajs.spring.annotation"})
+@ComponentScan(basePackages = {"com.mypackage", "com.romajs.spring"})
 ```
 
 ## Usage
