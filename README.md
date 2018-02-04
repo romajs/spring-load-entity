@@ -4,6 +4,7 @@ Auto load entities from database with `EntityManager`, by simply annotating fiel
 
 [![java-jdk](https://img.shields.io/badge/java%20jdk-1.8-brightgreen.svg)]()
 [![spring-boot](https://img.shields.io/badge/spring%20boot-1.5.9.Release-brightgreen.svg)]()
+[![codecov](https://codecov.io/gh/romajs/spring-load-entity/graph/badge.svg)](https://codecov.io/gh/romajs/spring-load-entity)
 [![circleci](https://circleci.com/gh/romajs/spring-load-entity.svg)](https://circleci.com/gh/romajs/spring-load-entity)
 
 ## Configuration
