@@ -2,6 +2,10 @@
 
 Auto load entities from database with `EntityManager`, by simply annotating fiels with `@LoadEntity(longId)`
 
+[![java-jdk](https://img.shields.io/badge/java%20jdk-1.8-brightgreen.svg)]()
+[![spring-boot](https://img.shields.io/badge/spring%20boot-1.5.9.Release-brightgreen.svg)]()
+[![circleci](https://circleci.com/gh/romajs/spring-load-entity.svg)](https://circleci.com/gh/romajs/spring-load-entity)
+
 ## Configuration
 
 ```xml
