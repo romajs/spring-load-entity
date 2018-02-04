@@ -1,4 +1,4 @@
-package com.romajs.spring.annotation;
+package romajs.spring.annotation;
 
 import org.junit.Assert;
 import org.junit.Test;

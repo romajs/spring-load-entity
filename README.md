@@ -16,7 +16,7 @@ Auto load entities from database with `EntityManager`, by simply annotating fiel
 ```xml
 <dependencies>
     <dependency>
-        <groupId>com.romajs.spring</groupId>
+        <groupId>romajs.spring</groupId>
         <artifactId>spring-load-entity</artifactId>
         <version>1.0-SNAPSHOT</version>
     </dependency>
@@ -26,7 +26,7 @@ Auto load entities from database with `EntityManager`, by simply annotating fiel
 At your `@SpringBootApplication`, add the following:
 
 ```java
-@ComponentScan(basePackages = {"com.mypackage", "com.romajs.spring"})
+@ComponentScan(basePackages = {"com.mypackage", "romajs.spring"})
 ```
 
 ## Usage

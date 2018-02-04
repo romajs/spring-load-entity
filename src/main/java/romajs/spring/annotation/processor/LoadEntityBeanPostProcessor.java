@@ -1,6 +1,6 @@
-package com.romajs.spring.annotation.processor;
+package romajs.spring.annotation.processor;
 
-import com.romajs.spring.annotation.util.LoadEntityFieldCallback;
+import romajs.spring.annotation.util.LoadEntityFieldCallback;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.BeanPostProcessor;

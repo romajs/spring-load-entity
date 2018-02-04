@@ -1,4 +1,4 @@
-package com.romajs.spring.annotation;
+package romajs.spring.annotation;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

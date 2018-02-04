@@ -1,6 +1,6 @@
-package com.romajs.spring.annotation.util;
+package romajs.spring.annotation.util;
 
-import com.romajs.spring.annotation.LoadEntity;
+import romajs.spring.annotation.LoadEntity;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.config.AutowireCapableBeanFactory;

@@ -1,4 +1,4 @@
-package com.romajs.spring.annotation;
+package romajs.spring.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
