@@ -23,7 +23,7 @@ Auto load entities from database with `EntityManager`, by simply annotating fiel
     <dependency>
         <groupId>romajs.spring</groupId>
         <artifactId>spring-load-entity</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
     </dependency>
 </dependencies>
 ```
